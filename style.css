@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Comfortaa&family=Oswald&family=Source+Sans+Pro&family=Work+Sans&display=swap");
+
+body {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  background-color: darkcyan;
+  color: white;
+}
+
+textarea {
+  width: 80%;
+  height: 10vh;
+  display: inline-block;
+  margin: 1rem;
+  padding: 1rem;
+}
+#btn-translate {
+  display: block;
+  margin: auto;
+}
+#output {
+  border: 1px solid black;
+  width: 80%;
+  height: 10vh;
+  display: inline-block;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: white;
+  color: black;
+}
